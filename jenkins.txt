@@ -12,7 +12,7 @@ pipeline {
     stages {
         stage('Checkout Code') {
             steps {
-                git branch: 'main', url: 'https://github.com/9182029380/springboot--ext-api-resttemplete.git'
+                git branch: 'main', url: 'https://github.com/sankeerth1809/springboot--ext-api-resttemplete.git'
             }
         }
 
