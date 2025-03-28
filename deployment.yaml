@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: springboot-app
-          image: sharath198/springboot-app-extapi:latest
+          image: sankeerth1809/springboot-app-extapi:latest
           ports:
             - containerPort: 9090
           env:
