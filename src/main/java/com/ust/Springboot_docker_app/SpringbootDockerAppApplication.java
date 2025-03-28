@@ -8,6 +8,7 @@ import org.springframework.web.client.RestTemplate;
 @SpringBootApplication
 public class SpringbootDockerAppApplication {
 
+
 	public static void main(String[] args) {
 		SpringApplication.run(SpringbootDockerAppApplication.class, args);
 	}
